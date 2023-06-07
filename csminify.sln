@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csminify", "csminify.csproj", "{4554F52F-A404-4F8C-8316-8247D277C0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4554F52F-A404-4F8C-8316-8247D277C0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4554F52F-A404-4F8C-8316-8247D277C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4554F52F-A404-4F8C-8316-8247D277C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4554F52F-A404-4F8C-8316-8247D277C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0414C7F5-A99B-4025-B597-4CE9EE54EDEB}
+	EndGlobalSection
+EndGlobal

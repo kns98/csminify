@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csminify": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\ParseContext.CSharp.cs"
+    }
+  }
+}
